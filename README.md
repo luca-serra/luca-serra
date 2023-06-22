@@ -26,3 +26,16 @@
     <img src="https://img.shields.io/badge/Stackoverflow-orange?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stackoverflow Badge"/>
   </a>
 </div>
+
+<br/>
+
+<div id="stats-text" align="center">
+ <h2>Github stats:</h2>
+</div>
+
+<br/>
+
+<div id="stats" align="center">
+ <img src="https://streak-stats.demolab.com/?user=luca-serra&theme=dark&hide_border=true"/>
+</div>
+
