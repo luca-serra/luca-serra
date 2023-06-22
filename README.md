@@ -1,17 +1,18 @@
 <div id="header" align="center">
  <h1>👋 Hi, I’m @luca-serra</h1>
 </div>
-
-- 👀 I’m interested in Machine Learning and coding.
  
-- 👨‍💻 I work as a Data Scientist at [Artefact](https://www.artefact.com/).
+<br/>
+<div id="bio" align="center">
+ 👨‍💻 Currently Senior Data Scientist @<a href="https://www.artefact.com/">Artefact</a>
+</div>
+<br/>
 
-- 👨‍🎓 I graduated from [CentraleSupelec](https://www.centralesupelec.fr/en/) (Ecole Centrale Paris).
+<div id="online-section" align="center">
+ <h2>Find me online:</h2>
+</div>
 
-- My current centers of interest are Forecasting 📈 and MLOPs ⚙️🛠.
-
-Find me online:
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://luca-serra.com">
     <img src="https://img.shields.io/badge/Personal%20Website-pink?logo=clyp&logoColor=white&style=for-the-badge" alt="Website Badge"/>
   </a>
