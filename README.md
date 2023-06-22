@@ -29,13 +29,22 @@
 
 <br/>
 
-<div id="stats-text" align="center">
- <h2>Github stats:</h2>
+<details>
+<summary>Show stats</summary>
+<br />
+<div align="center">
+  <p>Stackoverflow:</p>
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=13891969&layout=compact" />
 </div>
 
-<br/>
-
-<div id="stats" align="center">
- <img src="https://streak-stats.demolab.com/?user=luca-serra&theme=dark&hide_border=true"/>
+<div align="center" display="flex" align-items="stretch">
+  <p>Github:</p>
+<div flex=50%>
+  <img src="https://streak-stats.demolab.com/?user=luca-serra&theme=dark&hide_border=true"/>
+</div>
+<div flex=50%>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-serra&hide=jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</div>
 </div>
 
+</details>
