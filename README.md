@@ -29,6 +29,7 @@
 
 <br/>
 
+
 <details>
 <summary>Show stats</summary>
 <br />
@@ -36,7 +37,6 @@
   <p>Stackoverflow:</p>
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=13891969&layout=compact" />
 </div>
-
 <div align="center" display="flex" align-items="stretch">
   <p>Github:</p>
 <div flex=50%>
@@ -46,5 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-serra&hide=jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 </div>
+</details>
 
+<details>
+<summary>Show first Open Source contribution</summary>
+<a href="https://github.com/ultralytics/ultralytics">Ultralytics</a>: Link to PR -> <a href="https://github.com/ultralytics/ultralytics/pull/6227">fix: process_batch function of ConfusionMatrix to take into account empty labels #6227</a>
 </details>
