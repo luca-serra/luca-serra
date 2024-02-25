@@ -4,7 +4,7 @@
  
 <br/>
 <div id="bio" align="center">
- 👨‍💻 Currently Senior Data Scientist @<a href="https://www.artefact.com/">Artefact</a>
+ 👨‍💻 Currently Senior ML Engineer | Data Scientist @<a href="https://www.artefact.com/">Artefact</a>
 </div>
 <br/>
 
