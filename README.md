@@ -4,7 +4,7 @@
  
 <br/>
 <div id="bio" align="center">
- 👨‍💻 Freelance Senior ML Engineer | Data Scientist @<a href="https://www.artefact.com/">Artefact</a>
+ 👨‍💻 Freelance - Senior ML Engineer @<a href="[https://www.artefact.com](https://digital.decathlon.net/)/">Decathlon</a>
 </div>
 <br/>
 
