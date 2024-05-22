@@ -4,7 +4,7 @@
  
 <br/>
 <div id="bio" align="center">
- 👨‍💻 Machine Learning Engineer @<a href="[https://www.artefact.com](https://digital.decathlon.net/)/">Decathlon Digital</a>
+ 👨‍💻 Machine Learning Engineer @<a href="https://digital.decathlon.net">Decathlon Digital</a>
 </div>
 <br/>
 
