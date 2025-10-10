@@ -5,6 +5,7 @@
 <br/>
 <div id="bio" align="center">
  👨‍💻 Freelance Machine Learning Engineer
+ 💼 Currently working @Decathlon Digital
 </div>
 <br/>
 
